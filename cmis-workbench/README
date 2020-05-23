@@ -1,0 +1,16 @@
+This package contains the CMIS Workbench provided by the Apache Chemistry project with small modifications.
+
+Licenses:
+
+CMIS Workbench (Apache Software Foundation) - Apache License, Version 2.0
+Dependencies – see DEPENDENCIES file
+Groovy scripts (Manning Publications Co.) - Apache License, Version 2.0
+
+
+For further information, please refer to these websites:
+
+Apache Chemistry:
+http://chemistry.apache.org
+
+Creating Applications with CMIS and Apache Chemistry
+http://www.manning.com/???
